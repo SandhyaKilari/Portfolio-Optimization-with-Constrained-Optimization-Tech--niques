@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # CMSE 831 Final Project
-# ### &#9989; SANDHYA KILARI
-# #### &#9989; 12-08-2024
-
 # # Portfolio Optimization with Constrained Optimization Techniques: Balancing Risk and Return
 
 # ## 1. Background and Motivation
